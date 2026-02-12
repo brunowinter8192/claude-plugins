@@ -5,7 +5,7 @@
   },
   "plugins": [
     {
-      "name": "rag-mcp",
+      "name": "rag",
       "source": {
         "source": "github",
         "repo": "brunowinter8192/RAG"

@@ -1,0 +1,26 @@
+{
+  "name": "brunowinter-plugins",
+  "owner": {
+    "name": "Bruno Winter"
+  },
+  "plugins": [
+    {
+      "name": "rag-mcp",
+      "source": {
+        "source": "github",
+        "repo": "brunowinter8192/RAG"
+      },
+      "description": "RAG system - semantic search over indexed documents via MCP",
+      "version": "1.0.0"
+    },
+    {
+      "name": "github-research",
+      "source": {
+        "source": "github",
+        "repo": "brunowinter8192/github-MCP"
+      },
+      "description": "GitHub research capability - search repos, code, issues, PRs",
+      "version": "1.0.0"
+    }
+  ]
+}

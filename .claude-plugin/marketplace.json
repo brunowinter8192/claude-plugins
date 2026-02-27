@@ -30,6 +30,15 @@
       },
       "description": "Iterative development cycle (PLAN-IMPLEMENT-RECAP-IMPROVE-CLOSING) with code-investigate agent",
       "version": "1.0.0"
+    },
+    {
+      "name": "reddit",
+      "source": {
+        "source": "github",
+        "repo": "brunowinter8192/Reddit-MCP"
+      },
+      "description": "Reddit MCP server - search, browse, and analyze Reddit content (read-only)",
+      "version": "1.0.0"
     }
   ]
 }

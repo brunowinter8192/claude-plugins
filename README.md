@@ -6,9 +6,9 @@ Plugin registry for [Claude Code](https://docs.anthropic.com/en/docs/claude-code
 
 | Plugin | Description | Repo |
 |--------|-------------|------|
-| **rag** | Semantic search over indexed documents via MCP (pgvector, Qwen3 embeddings) | [RAG](https://github.com/brunowinter8192/RAG) |
+| **rag** | RAG system with semantic search, PDF/web indexing pipelines, and subagent evaluation | [RAG](https://github.com/brunowinter8192/RAG) |
 | **github-research** | GitHub API tools - search repos, code, issues, PRs, discussions | [github-MCP](https://github.com/brunowinter8192/github-MCP) |
-| **iterative-dev** | Iterative development cycle with code investigation agent | [Meta](https://github.com/brunowinter8192/Meta) |
+| **iterative-dev** | Development workflow engine — 5-phase cycle, plugin dev tooling, git automation, worker spawning | [Meta](https://github.com/brunowinter8192/Meta) |
 | **reddit** | Reddit search and analysis (read-only) | [Reddit-MCP](https://github.com/brunowinter8192/Reddit-MCP) |
 | **searxng** | Web search and URL scraping via local SearXNG instance | [searxng-mcp](https://github.com/brunowinter8192/searxng-mcp) |
 

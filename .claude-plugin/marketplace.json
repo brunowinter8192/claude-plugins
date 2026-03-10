@@ -48,6 +48,15 @@
       },
       "description": "SearXNG MCP server - web search and URL scraping with markdown conversion",
       "version": "1.0.0"
+    },
+    {
+      "name": "gmail",
+      "source": {
+        "source": "github",
+        "repo": "brunowinter8192/GmailMCP"
+      },
+      "description": "Gmail MCP server - search and read emails (read-only)",
+      "version": "1.0.0"
     }
   ]
 }

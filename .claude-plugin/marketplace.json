@@ -57,6 +57,15 @@
       },
       "description": "Gmail MCP server - search and read emails (read-only)",
       "version": "1.0.0"
+    },
+    {
+      "name": "arxiv",
+      "source": {
+        "source": "github",
+        "repo": "brunowinter8192/Arxiv"
+      },
+      "description": "ArXiv MCP server - search, browse, and download academic papers (read-only)",
+      "version": "1.0.0"
     }
   ]
 }

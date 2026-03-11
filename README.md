@@ -11,6 +11,8 @@ Plugin registry for [Claude Code](https://docs.anthropic.com/en/docs/claude-code
 | **iterative-dev** | Development workflow engine — 5-phase cycle, plugin dev tooling, git automation, worker spawning | [Meta](https://github.com/brunowinter8192/Meta) |
 | **reddit** | Reddit search and analysis (read-only) | [Reddit-MCP](https://github.com/brunowinter8192/Reddit-MCP) |
 | **searxng** | Web search and URL scraping via local SearXNG instance | [searxng-mcp](https://github.com/brunowinter8192/searxng-mcp) |
+| **gmail** | Gmail search and read emails (read-only) | [GmailMCP](https://github.com/brunowinter8192/GmailMCP) |
+| **arxiv** | ArXiv paper search, metadata, and PDF download (read-only) | [Arxiv](https://github.com/brunowinter8192/Arxiv) |
 
 ## Installation
 

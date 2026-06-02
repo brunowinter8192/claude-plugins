@@ -14,10 +14,10 @@
       "version": "1.0.0"
     },
     {
-      "name": "github-research",
+      "name": "gh-cli",
       "source": {
         "source": "github",
-        "repo": "brunowinter8192/github-MCP"
+        "repo": "brunowinter8192/gh-cli"
       },
       "description": "GitHub research capability - search repos, code, issues, PRs",
       "version": "1.0.0"

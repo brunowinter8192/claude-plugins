@@ -5,10 +5,10 @@
   },
   "plugins": [
     {
-      "name": "rag",
+      "name": "rag-cli",
       "source": {
         "source": "github",
-        "repo": "brunowinter8192/RAG"
+        "repo": "brunowinter8192/rag-cli"
       },
       "description": "RAG system with semantic search, PDF/web indexing pipelines, and subagent evaluation",
       "version": "1.0.0"
@@ -19,52 +19,34 @@
         "source": "github",
         "repo": "brunowinter8192/gh-cli"
       },
-      "description": "GitHub research capability - search repos, code, issues, PRs",
+      "description": "GitHub research capability - search repos, code, issues, PRs, discussions, releases",
       "version": "1.0.0"
     },
     {
       "name": "iterative-dev",
       "source": {
         "source": "github",
-        "repo": "brunowinter8192/Meta"
+        "repo": "brunowinter8192/iterative-dev"
       },
       "description": "Development workflow engine — 5-phase cycle, plugin dev tooling, git automation, worker spawning",
       "version": "1.0.0"
     },
     {
-      "name": "reddit",
+      "name": "reddit-cli",
       "source": {
         "source": "github",
-        "repo": "brunowinter8192/Reddit-MCP"
+        "repo": "brunowinter8192/reddit-cli"
       },
-      "description": "Reddit MCP server - search, browse, and analyze Reddit content (read-only)",
+      "description": "Reddit research capability - search, browse, and analyze Reddit content",
       "version": "1.0.0"
     },
     {
-      "name": "searxng",
+      "name": "searxng-cli",
       "source": {
         "source": "github",
-        "repo": "brunowinter8192/searxng-mcp"
+        "repo": "brunowinter8192/searxng-cli"
       },
-      "description": "SearXNG MCP server - web search and URL scraping with markdown conversion",
-      "version": "1.0.0"
-    },
-    {
-      "name": "gmail",
-      "source": {
-        "source": "github",
-        "repo": "brunowinter8192/GmailMCP"
-      },
-      "description": "Gmail MCP server - search and read emails (read-only)",
-      "version": "1.0.0"
-    },
-    {
-      "name": "arxiv",
-      "source": {
-        "source": "github",
-        "repo": "brunowinter8192/Arxiv"
-      },
-      "description": "ArXiv MCP server - search, browse, and download academic papers (read-only)",
+      "description": "SearXNG web search and URL scraping with markdown conversion",
       "version": "1.0.0"
     }
   ]

@@ -3,6 +3,9 @@
   "owner": {
     "name": "Bruno Winter"
   },
+  "renames": {
+    "searxng-cli": "websearch"
+  },
   "plugins": [
     {
       "name": "rag-cli",
@@ -41,12 +44,12 @@
       "version": "1.0.0"
     },
     {
-      "name": "searxng-cli",
+      "name": "websearch",
       "source": {
         "source": "github",
-        "repo": "brunowinter8192/searxng-cli"
+        "repo": "brunowinter8192/websearch"
       },
-      "description": "SearXNG web search and URL scraping with markdown conversion",
+      "description": "Web search and URL scraping with markdown conversion",
       "version": "1.0.0"
     }
   ]
